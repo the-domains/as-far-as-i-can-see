@@ -1,0 +1,23 @@
+name: As Far as I Can See
+favicon: null
+layout_spectrum: 0.027833854081109166
+typography_spectrum: 0.9256234818603843
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8520872527733445
+  lightness: 0.8926400956697762
+  saturation: 0.6373961123172194
+  rhythmicContrast: 0.9424318976234645
+purpose: []
