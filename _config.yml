@@ -1,6 +1,6 @@
 name: As Far as I Can See
 favicon: null
-layout_spectrum: 0.49834
+layout_spectrum: 0.75125
 typography_spectrum: 0.9256234818603843
 title: A conversation with myself.
 cta:
@@ -16,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.8520872527733445
+  brandColors:
+    - '#edd2b8'
+    - '#030203'
+    - '#633836'
+    - '#a89279'
+    - '#847769'
+  brandStrength: 1
   lightness: 0.8926400956697762
   saturation: 0.6373961123172194
   rhythmicContrast: 0.9424318976234645
