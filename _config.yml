@@ -1,29 +1,41 @@
-name: As Far as I Can See
-favicon: null
-layout_spectrum: 0.74791
-typography_spectrum: 1
 title: A conversation with myself.
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.74791
+favicon: null
+name: As Far as I Can See
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.6875
+  lightness: 0.1697995
+  saturation: 0.476817
+  rhythmicContrast: 0.6296992
   brandColors:
     - '#ffffff'
     - '#adadad'
     - '#545454'
     - '#7d7d7d'
     - '#070707'
-  brandStrength: 0.6875
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.4135338
