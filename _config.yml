@@ -3,7 +3,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 0.74791
+layout_spectrum: 0.1322055
 favicon: null
 name: As Far as I Can See
 purpose: []
@@ -28,14 +28,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.6875
+  brandStrength: 0.1109023
   lightness: 0.1697995
   saturation: 0.476817
   rhythmicContrast: 0.6296992
   brandColors:
-    - '#ffffff'
-    - '#adadad'
-    - '#545454'
-    - '#7d7d7d'
-    - '#070707'
+    - '#D2D6E4'
+    - '#0E1313'
+    - '#9EB1C0'
+    - '#67727A'
+    - '#2D3E58'
 typography_spectrum: 0.4135338
